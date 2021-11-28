@@ -137,7 +137,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Configure your settings in  `settings.py`
    ```py
-   port = your_website_port;
+   port = your_website_port
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
